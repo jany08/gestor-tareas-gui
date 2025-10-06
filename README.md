@@ -26,7 +26,9 @@ Creado por **Janina Jumbo** ✨
 
 Ejemplo de cómo se ve la aplicación:  
 
-_(Aquí puedes insertar una captura de pantalla de tu aplicación en ejecución)_  
+_( <img width="1920" height="1080" alt="captura" src="https://github.com/user-attachments/assets/7a32693e-ab51-4772-a5f5-dd67b2cba809" />
+
+)_  
 
 ---
 
