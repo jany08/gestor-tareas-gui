@@ -2,11 +2,11 @@
 
 Aplicación GUI desarrollada en **Python** con **Tkinter** que permite gestionar una lista de tareas pendientes con fecha y hora.  
 
-Creado por **Janina Jumbo** ✨  
+Creado por **Janina Jumbo** 
 
 ---
 
-## 🎯 Funcionalidades
+##  Funcionalidades
 
 - Añadir nuevas tareas con fecha y hora (usando un calendario).
 - Marcar tareas como **completadas**.
@@ -22,7 +22,7 @@ Creado por **Janina Jumbo** ✨
 
 ---
 
-## 🖼️ Interfaz
+##  Interfaz
 
 Ejemplo de cómo se ve la aplicación:  
 
@@ -32,7 +32,7 @@ Ejemplo de cómo se ve la aplicación:
 
 ---
 
-## 🚀 Requisitos
+##  Requisitos
 
 - Python 3.x
 - Librerías:
